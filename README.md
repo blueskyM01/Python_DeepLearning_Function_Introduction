@@ -5,7 +5,7 @@
     mx_MyFunction()
 * 变量命名  
     mx_MyVariable
-* 类命名
+* 类命名  
     mx_My_Class_YOLO
 # 2.python  
 * [Argparse模块讲解](https://www.jianshu.com/p/00425f6c0936)  
