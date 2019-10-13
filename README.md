@@ -1,7 +1,12 @@
 主要介绍Python编程中常见的函数
 =========================
 # 1. 命名规则
-
+* 函数命名  
+    mx_MyFunction()
+* 变量命名  
+    mx_MyVariable
+* 类命名
+    mx_My_Class_YOLO
 # 2.python  
 * [Argparse模块讲解](https://www.jianshu.com/p/00425f6c0936)  
     1. [action参数](https://blog.csdn.net/drievn/article/details/70821188)
