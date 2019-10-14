@@ -3,15 +3,15 @@
 # 1. 命名规则
 * 函数命名  
     ````
-    mx_MyFunction()
+    mx_myFunction() # 从第二个单词开始大写
     ````
 * 变量命名  
     ````
-    mx_MyVariable
+    mx_myVariable # 从第二个单词开始大写
     ````
 * 类命名  
     ````
-    mx_My_Class_YOLO
+    mx_Class_YOLO # 用"_"隔开
     ````
 # 2.python  
 * [Argparse模块讲解](https://www.jianshu.com/p/00425f6c0936)  
